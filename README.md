@@ -40,12 +40,12 @@ Enter the link of the localhost server to run the application.
 
 ## Contributors
 
-* **Parth Shah**
-* **Saiprasad Duduka**
-* **Priyesh Vakharia**
-* **Saurav Kanegaonkar**
-* **Riya Gupta**
-* **Aditya Patkar**
+* **Manideep Seal**
+* **Joydeep Roy**
+* **Kazi Naved Akhtar**
+* **Koushik Datta**
+* **Kriti Chatterjee**
+* **Mayuck Biswas**
 
 
 ## Acknowledgments
